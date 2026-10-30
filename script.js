@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', ()=> {
     trackItems.forEach(item => {
         item.addEventListener('click', () => {
             const trackSrc=item.getAttribute('data-src');
-            const trackTitle=item.getAttribute('track-title');
+            const trackTitle=item.getAttribute('data-title');
 
             trackItems.forEach(i=> i.classList.remove('active'));
             item.classList.add('active');
