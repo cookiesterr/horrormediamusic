@@ -2,7 +2,7 @@ document.addEventListener('DOMContentLoaded', ()=> {
     const audioPlayer = document.getElementById('audio-player');
     const audioSource = document.getElementById('audio-source');
     const currentTrackTitle = document.getElementById('current-track-title');
-    const trackItems = document.getElementById('track-item');
+    const trackItems = document.querySelectorAll('track-item');
 
     trackItems.forEach(item => {
         item.addEventListener('click', () => {
