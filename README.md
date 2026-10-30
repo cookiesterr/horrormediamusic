@@ -17,8 +17,14 @@ TRACKLIST:
 
 Tech Stack:
 
-- Frontend: HTML5, CSS3, JavaScript 
+Frontend: HTML5, CSS3, JavaScript 
   
-- Audio Composition: [Strudel Livecoding REPL](https://strudel.cc/)
+Audio Composition: [Strudel Livecoding REPL](https://strudel.cc/)
   
-- Hosting: GitHub Pages
+Hosting: GitHub Pages
+
+Lapse Links for Strudel Coding:
+
+https://lapse.hackclub.com/timelapse/rTasSI6RFQuq
+
+https://lapse.hackclub.com/timelapse/j2JEi0GDLQQI
