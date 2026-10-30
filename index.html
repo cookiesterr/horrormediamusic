@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>3 AM Strudel Archives</title>
+</head>
+<body>
+    <div class="bg-overlay"></div>
+    <main class="player-container">
+        <header>
+            <h1 class="title">STRUDEL //HORROR MUSIC</h1>
+            <p class="subtitle">Livecoded tracks fitting for horror media</p>
+        </header>
+
+        <section class="now-playing-card"
+          <h2 id="current-track-title>Ambience"</h2>
+          <audio id="audio-player" controls preload="auto">
+            <source id="audio-source" src="assets/ambience.wav" type="audio/wav">
+            Your Browser Does Not Support the Audio Element.
+            </audio>
+        </section>
+
+        <section class="playlist">
+            <h3>TRACKLIST</h3>
+            <ul id="track-list">
+                <li class="track-item active" data-src="assets/ambience.wav" data-title="Ambience">
+                    <span class="track-number">01</span>
+                    <span class="track-name">Ambience</span>
+                </li>
+                <li class="track-item active" data-src="assets/chase%20song.wav" data-title="Chase Song">
+                    <span class="track-number">02</span>
+                    <span class="track-name">Chase Song</span>
+                </li>
+                <li class="track-item active" data-src="assets/eerie%20song.wav" data-title="Eerie Song">
+                    <span class="track-number">03</span>
+                    <span class="track-name">Eerie Song</span>
+                </li>
+                <li class="track-item active" data-src="assets/menu%20song.wav" data-title="Menu Song">
+                    <span class="track-number">04</span>
+                    <span class="track-name">Menu Song</span>
+                </li>
+            </ul>
+        </section>
+    </main>
+
+    <script src="script.js"></script>
+</body>
+</html>
