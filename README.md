@@ -36,7 +36,7 @@ Audio Composition: [Strudel Livecoding REPL](https://strudel.cc/)
   
 Hosting: GitHub Pages
 
-Lapse Links for Strudel Coding:
+# Lapse Links for Strudel Coding:
 
 https://lapse.hackclub.com/timelapse/rTasSI6RFQuq
 
