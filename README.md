@@ -24,7 +24,9 @@ https://cookiesterr.github.io/horrormediamusic/
 
 Dependencies - Internet connection to run the website
 
-listen to the songs on the website
+listen to the songs on the website or you can download the .wav files from the assets folder.
+Alternatively, you can copy paste the code in the js file "strudel-music.js" to strudel.cc and click play to listen or you can run the file in VS Code as well just make sure to have the extension "Strudel VS" installed
+
 
 # Tech Stack:
 
