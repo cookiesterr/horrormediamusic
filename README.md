@@ -6,7 +6,8 @@ I made a website through which you can listen to the songs i made on strudel.cc 
 # Live Demo: 
 https://cookiesterr.github.io/horrormediamusic/
 
-<img width="345" height="108" alt="image" src="https://github.com/user-attachments/assets/f725d81c-20a6-4ff7-aa9a-3ceb3a8d8dfc" />
+<img width="1365" height="645" alt="wowoowowoow" src="https://github.com/user-attachments/assets/46afa6ef-cad4-4d2a-98c0-b2bfcfca800b" />
+
 
 
 # TRACKLIST:
