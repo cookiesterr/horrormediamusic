@@ -41,3 +41,7 @@ Hosting: GitHub Pages
 https://lapse.hackclub.com/timelapse/rTasSI6RFQuq
 
 https://lapse.hackclub.com/timelapse/j2JEi0GDLQQI
+
+# AI declaration:
+
+Parts of the website were designed using AI.
