@@ -44,4 +44,4 @@ https://lapse.hackclub.com/timelapse/j2JEi0GDLQQI
 
 # AI declaration:
 
-Parts of the website were designed using AI.
+AI was used for debugging the website and designing the look of this website on CSS.
